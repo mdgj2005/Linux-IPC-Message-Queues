@@ -1,7 +1,7 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
-NAME:M.Gokul Anand
-REG NO:212223040049
+# NAME:M.Gokul Anand
+# REG NO:212223040049
 
 # AIM:
 To write a C program that receives a message from message queue and display them
